@@ -1,0 +1,13 @@
+#b2{
+    float: right;
+}
+h1{
+    color:aliceblue;
+    background: linear-gradient(red,darkblue);
+}
+h2{
+    color: mediumturquoise;
+}
+body{
+    background-size: cover;
+}
